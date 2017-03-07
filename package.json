@@ -1,0 +1,12 @@
+{
+  "name": "perspective",
+  "version": "1.0.0",
+  "description": "A new and an innovative way of inline styling to html elements",
+  "main": "perspective.js",
+  "repository": {
+    "url": "https://github.com/ahmedtarek2134/perspective",
+    "type": "git"
+  },
+  "author": "Ahmed Tarek",
+  "license": "MIT"
+}
