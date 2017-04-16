@@ -15,7 +15,7 @@ To initialize a property which has two name you simply do this, in this example 
 To start using Perspective in any html element, simply add the attribute ```p-``` and then the css property name that you initialized, for exmaple for that color intialization, to start using it we will add the attribute ```p-color``` to out html element and the value of that attribute will be the colour.
 For the two named properties, the html attribute will be like this ```p-background-color``` or ```p-margin-top```
 
-## example
+## Example
 ```html
 	<h1 p-color="red" p-margin-bottom="10px">Perspective is Awesome!</h1>
 	<script src="dist/perspective.min.js"></script>
